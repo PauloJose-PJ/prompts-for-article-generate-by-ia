@@ -450,6 +450,7 @@ Curtiu esse conteúdo ? Ele foi gerado por inteligência artificial, mas foi rev
 #Angular #Frontend #Programação
 
 <br>
+
 | GitHub | Linkedin |
 | :---: | :---: |
 | ![GitHub Esquerda](<a href="https://www.linkedin.com/in/paulojos%C3%A9-pj/"><img src="./image/profile.png"></a>) | ![Linkedin Direita](<a href="https://github.com/PauloJose-PJ"><img src="./image/linkedin.png" style="width:60px"></a>) |
